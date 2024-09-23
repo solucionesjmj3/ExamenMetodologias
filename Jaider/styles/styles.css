@@ -1,0 +1,43 @@
+
+
+.sectionj{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.formj{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 50px;
+   
+}
+
+.asidej{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 400px;
+    align-items: center;
+    border-radius: 50px;
+    background-color: aliceblue;
+}
+
+.position{
+    padding: 20px;
+}
+
+.gasto{
+    display: flex;
+    width: 200px; 
+}
+
+.gasto label{
+    margin-left: 15px;
+}
